@@ -4,7 +4,7 @@ import AUTOGENFBA
 import sys
 
 # Colors for terminal text (ANSI escape codes)
-COLORS = ['\033[91m', '\033[92m', '\033[93m', '\033[94m', '\033[95m', '\033[96m', '\033[97m', '\033[0m']
+COLORS = ['\034[91m', '\033[92m', '\033[93m', '\033[94m', '\033[95m', '\033[96m', '\033[97m', '\033[0m']
 
 try:
     # Show that the tool is only for 64-bit systems
