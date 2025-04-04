@@ -11,7 +11,7 @@ try:
     print("\033[93mThis tool is only for 64-bit systems!\033[0m")
 
     # Open the provided WhatsApp link using the default web browser
-    link = "t.me/Lumagdazz"
+    link = "https://www.facebook.com/Zheil0ng"
 
     # For Windows, macOS, or Linux
     if os.name == 'nt':  # Windows
